@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Adriel Filippsen Knaak 👋
 
 - 🔭 Hoje trabalho como Técnico Mecânico e estou buscando uma oportunidade para mudança de carreira
-- 🌱 Estou estudando Engenharia de Software e Gestão Financeira, além de alguns cursos grátis de linguagens de programação
+- 🌱 Estou estudando Engenharia de Software e Gestão Financeira, além de alguns cursos online de linguagens de programação
 - 😄 Pronouns: ele/dele
 
 <div align="center">
